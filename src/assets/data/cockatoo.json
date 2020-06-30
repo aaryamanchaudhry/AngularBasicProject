@@ -1,0 +1,20 @@
+
+  { "cockatoo01": 
+      
+    [{"name":"Crested Cockatoo", "color":"White with yellow crown", "description":"Because of it’s expensiveness and rarity the citron-crested cockatoo not common as a pet. Some zoos or breeders keep this species as a novelty. Hybrids are also kept as pets.", "image":"assets/images/CrestedCockatoo.jpg" }]
+   ,
+
+    "cockatoo02": 
+      
+        [{"name":"Ducorps Cockatoo", "color":"White", "description":"These are common pets. When these birds are used to humans from a very young age, they will become very affectionate to humans.", "image":"assets/images/DucorpsCockatoo.jpg"  }]
+       ,
+
+        "cockatoo03": 
+      
+            [{"name":"Major Mitchell's Cockatoo", "color":"Salmon Pink with multicolored crown", "description":"The Major Mitchell’s cockatoo occurs naturally in Soutnern and Western Australia. They live in forest areas and do not go to the open field so often.", "image":"assets/images/MajorCockatoo.jpg"  }]
+         
+    
+
+
+}
+    

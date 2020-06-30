@@ -1,0 +1,18 @@
+{"dolphin01": 
+      
+   [ {"name":"Amazon Dolphin", "color":"Pink", "description":"When these dolphins become adult they accquire pink color.", "image":"assets/images/AmazonDolphin.jpg" }]
+   ,
+
+    "dolphin02":
+      [
+        {"name":"Bottlenose Dolphin", "color":"Grey", "description":"They have a cute nose", "image":"assets/images/BottlenoseDolphin.jpg"  }
+       ] ,
+
+        "dolphin03": 
+      [
+            {"name":"Killer Dolphin", "color":"Black and White", "description":"These are also called Orcas.", "image":"assets/images/KillerDolphin.jpg"  }
+         
+      ]
+
+
+}

@@ -1,0 +1,57 @@
+
+<mat-tab-group mat-stretch-tabs class="example-stretched-tabs mat-elevation-z4" [ngStyle]="{textAlign: 'center'}">
+<mat-tab>
+    <ng-template mat-tab-label>
+       
+        Cockatoos
+    </ng-template>
+
+    <button mat-raised-button (click)='displaycockatoo(1)'color='accent'>
+        Crested Cockatoo
+        <mat-icon color='primary'>favorite_border</mat-icon>
+    </button>
+    &nbsp;
+    <button mat-raised-button (click)='displaycockatoo(2)'color='accent'>
+        Ducorps Cockatoo
+        <mat-icon color='primary'> favorite_border</mat-icon>
+    </button>
+    &nbsp;
+    <button mat-raised-button (click)='displaycockatoo(3)' color='accent'>
+        Major Mitchell's Cockatoo
+        <mat-icon color='primary'>favorite_border</mat-icon>
+    </button>
+    <hr>
+    <div>
+        <p [innerHTML]='outArea'></p>
+    </div>
+</mat-tab>
+
+<mat-tab>
+    <ng-template mat-tab-label >
+       
+       Dolphins
+    </ng-template>
+
+    <button mat-raised-button (click)='displaydolphin(1)' color='accent'>
+        Amazon
+        <mat-icon color='primary'>favorite_border</mat-icon>
+    </button>
+    &nbsp;
+    <button mat-raised-button (click)='displaydolphin(2)' color='accent'>
+        Bottlenose
+        <mat-icon color='primary'>favorite_border</mat-icon>
+    </button>
+    &nbsp;
+    <button mat-raised-button (click)='displaydolphin(3)' color='accent'>
+       Killer
+        <mat-icon color='primary'>favorite_border</mat-icon>
+    </button>
+    <hr>
+    <div>
+        <p [innerHTML]='outArea'></p>
+    </div>
+</mat-tab>
+
+
+
+</mat-tab-group>

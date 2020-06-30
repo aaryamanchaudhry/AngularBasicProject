@@ -1,0 +1,21 @@
+
+
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+
+html { background-color:  blueviolet; }
+
+h4{text-align: center; color:whitesmoke;}
+
+.mat-tab-label{
+    color:black;
+    background-color:white;
+    
+   
+}
+
+.mat-tab-label-active{
+    font-weight:bold;
+    color:red;
+    
+}
+p{background-color: pink; color:blue;}
